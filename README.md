@@ -28,7 +28,7 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 ```
 
 - 🎓&nbsp; Computer Science student, sharpening my skills every day
-- 💻&nbsp; Focused on **Backend Development**, **Web Development**, and **Artificial Intelligence**
+- 💻&nbsp; Focused on **Backend Development**, **Web Development** and exploring Mobile Development with Flutter
 - 🚀&nbsp; Building real-world projects with **ASP.NET Core** to grow my portfolio
 - 🌱&nbsp; Studying clean architecture and professional software practices
 - ⚡&nbsp; Fun fact: I chase clean code more than fast code
@@ -38,14 +38,18 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=3&section=header&width=100%"/>
 
 ## 🛠️&nbsp; Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css&theme=dark" height="60"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge&logo=nuget&logoColor=white" height="28"/>
+
+<br/><img src="https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge&logo=nuget&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
-<br/><br/>
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/><br/>
+
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=dark" height="60"/>
 
 </div>
