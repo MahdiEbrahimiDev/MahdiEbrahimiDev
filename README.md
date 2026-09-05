@@ -38,7 +38,6 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=3&section=header&width=100%"/>
 
 ## 🛠️&nbsp; Tech Stack
-### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -56,7 +55,7 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 
 <br/>
 
-### 🌱&nbsp; Currently Learning
+## 🌱&nbsp; Currently Learning
 
 <div align="center">
 
