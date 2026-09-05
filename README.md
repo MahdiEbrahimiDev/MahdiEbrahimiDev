@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:0f0c29&height=260&section=header&text=Hi%20There%2C%20I'm%20Mahdi%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20•%20.NET%20•%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:0f0c29&height=260&section=header&text=Hi%20There%2C%20I'm%20Mahdi%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer%20•%20.NET%20•%20Exploring%20Flutter&descAlignY=55&descSize=20"/>
 
 <a href="https://github.com/MahdiEbrahimiDev">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Backend+Developer+%7C+ASP.NET+Core+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
