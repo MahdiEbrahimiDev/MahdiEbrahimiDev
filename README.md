@@ -56,7 +56,7 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,figma&theme=dark" height="55"/>
 
 </div>
 
@@ -94,18 +94,6 @@ fun_fact: "I enjoy building real portfolio projects, not just tutorials 🔥"
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=3&section=header&width=100%"/>
-
-## 🐍&nbsp; Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MahdiEbrahimiDev/MahdiEbrahimiDev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚙️ این انیمیشن مار به‌صورت خودکار کار نمی‌کنه؛ باید یه GitHub Action برای ساختنش ست‌آپ کنی (پایین توضیح دادم).
-
-<br/>
 
 ## 💬&nbsp; Random Dev Quote
 
